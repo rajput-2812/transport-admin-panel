@@ -1,0 +1,22 @@
+{
+  "subheader.title": "Incorporación del conductor",
+  "subheader.progress": "25% Completado",
+  "subheader.action.upload": "Subir",
+  "sider.title.personaldetails": "Detalles personales",
+  "sider.subtitle.personaldetails": "Cuéntenos sobre usted y su información de contacto de emergencia.",
+  "sider.title.employmentdetails": "Detalles de Empleo",
+  "sider.subtitle.employmentdetails": "Cuéntanos sobre tu educación y tu información laboral previa.",
+  "sider.title.drivingdetails": "Detalles de manejo",
+  "sider.title.medicaldetails": "Medical Details",
+  "sider.title.termsconditions": "Terms & Conditions",
+  "sider.subtitle.drivingdetails": "Spanish lorem ipsum dolor sit amet, consectetu ipsum dolor sit amet.",
+  "sider.footer.saving": "Ahorro",
+  "sider.footer.savedsuccess": "Guardado exitosamente",
+  "sider.footer.savefailed": "Error al guardar",
+  "personaldetails.formtitle.profile": "Perfil",
+  "personaldetails.formtitle.contactinformation": "Información del contacto",
+  "personaldetails.formtitle.citizenshipdetails": "Detalles de ciudadanía",
+  "personaldetails.formtitle.homeaddress": "Direccion de casa",
+  "personaldetails.formtitle.emergencycontactinformation": "Información de Contacto en caso de Emergencia",
+  "sider.title.educationdetails": "Detalles de educación"
+}

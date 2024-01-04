@@ -1,0 +1,25 @@
+{
+  "error": "An error occurred",
+  "otp.expiredtryagain": "OTP Expired! Please try again",
+  "otp.errorwhilesending": "An error occured while sending OTP",
+  "otp.errorwhilestartingprocess": "An error occured while starting process",
+  "otp.errorwhilevalidating": "An error occured while validating OTP",
+  "image.uploadjpgpng": "You can only upload JPG/PNG file!",
+  "image.imagesize": "Image must smaller than 5 MB!",
+  "pleasefillmandatoryfields": "Please fill in all mandatory fields",
+  "threeyearaddressmandatory": "Previous addresses for 3 years is mandatory",
+
+  "BAD_REQUEST": "Bad request",
+  "UNAUTHORIZED": "Unauthorized",
+  "NOT_FOUND": "Not found",
+  "FORBIDDEN": "Forbidden",
+  "VALIDATION_ERROR": "Validation error occurred",
+  "INTERNAL_SERVER_ERROR": "An internal server error occured",
+  "TWILIO_SERVICE_ERROR": "An error occured while sending OTP",
+  "TWILIO_INVALID_NUMBER": "Invalid number",
+  "TWILIO_MAX_SEND_ATTEMPTS_ERROR": "You've exhausted the limit, please try again in some time!",
+  "TWILIO_TOO_MANY_REQUESTS": "Too many requests!",
+  "TWILIO_VERIFICATION_CODE_EXPIRED_OR_NOT_FOUND": "OTP invalid/expired, please try again!",
+  "TWILIO_VERIFICATION_CODE_INVALID": "You've entered an invalid OTP",
+  "TWILIO_VERIFICATION_CODE_MAX_ATTEMPTS": "Max attempts reached!"
+}

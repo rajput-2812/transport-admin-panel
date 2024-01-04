@@ -1,0 +1,7 @@
+{
+  "initializingapp": "",
+  "loading": "Loading...",
+  "salutation": "Hi, {!isEmpty(user.user_preference.nick_name)\n                      ? {\n                          name: `${user.user_preference.nick_name}!`,\n                        }\n                      : {\n                          name: `${user.applicant_details.driving_license.first_name}!`,\n                        }}",
+  "welcome": "Welcome!",
+  "logout": "Logout"
+}

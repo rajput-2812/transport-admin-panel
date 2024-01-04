@@ -1,0 +1,22 @@
+{
+  "header.es": "Esp<1>anol</1>",
+  "header.en": "En<1>glish (US)</1>",
+  "header.nav.trucks": "Transporta tu camión",
+  "header.nav.fleet": "Transporta con tu flota",
+  "header.nav.freight": "Envíe su carga",
+  "header.nav.shippers": "Shipperss",
+  "header.nav.login": "Iniciar",
+  "content.brand.name": "Transporte.",
+  "content.brand.tagline": "Una nueva experiencia para propietarios-operadores y transportistas.",
+  "content.brand.signup": "Regístrate",
+  "content.gist.title": "Entonces, ¿de qué se trata todo esto?",
+  "content.gist.para1": "Estamos trabajando duro en algunas cosas increíbles que <1> redefinir </1> tu <1> experiencia de transporte.</1>",
+  "content.gist.para2": "Nos sentimos halagados por su interés en <1>Transporte</1>, Y están listos para dar un grupo selecto de <3> propietarios-operadores</3>,<5> propietarios de flotas </5> & <7> cargadores </7> una oportunidad de experimentar la <9> Diferencia de Transporte.</9>",
+  "content.gist.para3": "<0>Listo? </0> Simplemente proporciónenos su información de contacto arriba y El equipo estará en contacto.",
+  "footer.aboutus": "Sobre nosotros",
+  "footer.contactus": "Contacta con nosotros",
+  "footer.faq": "FAQ",
+  "footer.terms": "Condiciones",
+  "footer.privacy": "Intimidad",
+  "footer.copyright": "<0>© 2020 Transport Inc.</0> Todos los derechos reservados. Se ofrecen servicios y proporcionado por Transport Ops LLC, un autotransportista interestatal acreditado & corredor de carga."
+}

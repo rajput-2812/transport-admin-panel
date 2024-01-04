@@ -1,0 +1,7 @@
+{
+  "initializingapp": "Initializing app...",
+  "salutation": "Hi, {{name}}",
+  "welcome": "Welcome!",
+  "logout": "Logout",
+  "loading": "Loading"
+}

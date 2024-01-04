@@ -1,0 +1,15 @@
+{
+  "content.drivinglicense.instruction": "Please enter all details <1>exactly</1> as it appears on your driver's license",
+  "content.phonenumberdetails.sendotp": "Get Code",
+  "content.drivinglicense.title": "Let’s start with your driving license details",
+  "content.drivinglicense.subtitle": "As an initial requirement we would like you to upload your driving license (front and back) and enter other related details",
+  "content.drivinglicense.imageinfo": "JPEG or PNG. Max size of 2MB",
+  "content.steps.title": "Onboarding with Transport",
+  "content.steps.subtitle": "As a new applicant looking out for an opportunity to drive with us, there’s a few things we want you to know before starting the Onboarding process.",
+  "content.steps.documentsrequired": "DOCUMENTS REQUIRED",
+  "content.steps.documentsrequireddescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi",
+  "content.steps.formfilling": "FORM FILLING",
+  "content.steps.verification": "VERIFICATION",
+  "content.steps.verificationdescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi",
+  "content.steps.actions.start": "Continue"
+}

@@ -1,0 +1,12 @@
+{
+  "Successfully verified": "Successfully verified",
+  "Verification failed": "Verification failed",
+  "cname": "",
+  "Authenticate Mobile Phone Number": "Authenticate Mobile Phone Number",
+  "A message with a One Time Password was {{text}} to {{phone}}. Enter the OTP below to continue.": "A message with a One Time Password was {{text}} to {{phone}}. Enter the OTP below to continue.",
+  "OTP expires in": "OTP expires in",
+  "Didn't receive the verification code?": "Didn't receive the verification code?",
+  "RESEND": "RESEND",
+  "Need to change the number you entered?": "Need to change the number you entered?",
+  "CHANGE": "CHANGE"
+}

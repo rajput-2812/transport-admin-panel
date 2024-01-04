@@ -1,0 +1,2 @@
+(this["webpackJsonptransport-admin"]=this["webpackJsonptransport-admin"]||[]).push([[6],{723:function(n,t,e){"use strict";e.d(t,"a",(function(){return r}));var a=e(0);const r=n=>Object(a.useEffect)(n,[])},753:function(n,t,e){"use strict";e.r(t);var a=e(0),r=e.n(a),c=e(23);var u=function(n){return r.a.createElement("div",null,r.a.createElement(c.a,{to:{pathname:"/drivers"}}))},i=e(723);t.default=function(n){return Object(i.a)(()=>{console.log("Mounting Landing")}),r.a.createElement(u,null)}}}]);
+//# sourceMappingURL=6.a3cac794.chunk.js.map

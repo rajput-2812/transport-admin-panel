@@ -1,0 +1,25 @@
+{
+  "error": "Ocurrió un error",
+  "otp.expiredtryagain": "¡OTP caducado! Inténtalo de nuevo",
+  "otp.errorwhilesending": "Se produjo un error al enviar OTP",
+  "otp.errorwhilestartingprocess": "Se produjo un error al iniciar el proceso.",
+  "otp.errorwhilevalidating": "Se produjo un error al validar OTP",
+  "image.uploadjpgpng": "¡Solo puedes subir archivos JPG / PNG!",
+  "image.imagesize": "¡La imagen debe tener menos de 5 MB!",
+  "pleasefillmandatoryfields": "Por favor rellene todos los campos obligatorios",
+  "threeyearaddressmandatory": "Las direcciones anteriores por 3 años son obligatorias",
+
+  "BAD_REQUEST": "Solicitud incorrecta",
+  "UNAUTHORIZED": "No autorizado",
+  "NOT_FOUND": "Extraviado",
+  "FORBIDDEN": "Prohibido",
+  "VALIDATION_ERROR": "Se produjo un error de validación.",
+  "INTERNAL_SERVER_ERROR": "Ocurrió un error interno del servidor",
+  "TWILIO_SERVICE_ERROR": "Se produjo un error al enviar OTP",
+  "TWILIO_INVALID_NUMBER": "Número invalido",
+  "TWILIO_MAX_SEND_ATTEMPTS_ERROR": "Has agotado el límite, ¡inténtalo de nuevo en algún momento!",
+  "TWILIO_TOO_MANY_REQUESTS": "Demasiadas solicitudes!",
+  "TWILIO_VERIFICATION_CODE_EXPIRED_OR_NOT_FOUND": "OTP inválido / caducado, por favor intente de nuevo!",
+  "TWILIO_VERIFICATION_CODE_INVALID": "Has ingresado una OTP no válida",
+  "TWILIO_VERIFICATION_CODE_MAX_ATTEMPTS": "¡Intentos máximos alcanzados!"
+}
